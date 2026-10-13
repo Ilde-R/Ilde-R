@@ -2,7 +2,7 @@
   <img width="3168" height="1344" alt="Gemini_Generated_Image_6beql96beql96beq" src="https://github.com/user-attachments/assets/b21b69ea-75f9-426f-a3a8-49d31963c31f" />
   
   <h1>Hi! I'm Ilde</h1>
-  <h3>Backend & IoT Software Engineer</h3>
+  <h3>Backend & Software Engineer</h3>
 </div>
 
 <br>
